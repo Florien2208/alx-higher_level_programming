@@ -1,14 +1,8 @@
 #!/usr/bin/python3
+"""Defines a Rectangle class."""
+
+
 class Rectangle:
-    def __init__(self):
-        pass
-    
-    def area(self):
-        pass
-    
-    def perimeter(self):
-        pass
-    
-    def is_square(self):
-        pass
+    """Represent a rectangle."""
+    pass
 
